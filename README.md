@@ -46,3 +46,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </p>
 
+## &#x1f4c8; GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJoseOtavio&layout=compact&theme=vue-blue" />
+</p>
