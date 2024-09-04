@@ -5,7 +5,7 @@
 </p>
  
  ## Graduation 🎓
- 📚 Student in <strong>Bachelor of Information Systems</strong>
+ 📚 <strong>Systems Analyst & Developer</strong>
 
 ## Skills 🧠
 
