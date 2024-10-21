@@ -1,7 +1,7 @@
 # Hey, nice to meet you 👋
 
 <p align="left">
-  i'm <i> Software Engineer </i> 
+  I'm <i> Software Engineer </i> 
 </p>
  
  ## Graduation 🎓
